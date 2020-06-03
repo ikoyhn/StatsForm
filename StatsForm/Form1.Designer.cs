@@ -58,9 +58,9 @@
             this.InputDescription.AutoSize = true;
             this.InputDescription.Location = new System.Drawing.Point(24, 54);
             this.InputDescription.Name = "InputDescription";
-            this.InputDescription.Size = new System.Drawing.Size(206, 13);
+            this.InputDescription.Size = new System.Drawing.Size(211, 13);
             this.InputDescription.TabIndex = 2;
-            this.InputDescription.Text = "Enter values of list (Separated by a space)";
+            this.InputDescription.Text = "Enter values of list (Separated by a comma)";
             this.InputDescription.Click += new System.EventHandler(this.label1_Click);
             // 
             // ExitButton
